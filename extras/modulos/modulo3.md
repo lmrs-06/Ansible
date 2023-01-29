@@ -14,6 +14,7 @@ Instalamos los repositorios de Ansible.
 ![foto3](https://github.com/lmrs-06/Ansible/blob/main/extras/instalacion/repositoriosAnsible.PNG)
 
 Instalamos Ansible.
+
 ![foto4](https://github.com/lmrs-06/Ansible/blob/main/extras/instalacion/installAnsible.PNG)
 
 Comprobamos que funciona correctamente con el comando "ansible".
